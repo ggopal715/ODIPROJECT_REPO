@@ -1,1 +1,2 @@
+feature2
 testfileadding in feature2
