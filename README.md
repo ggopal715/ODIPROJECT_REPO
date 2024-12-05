@@ -1,1 +1,2 @@
-testfileadding in feature1
+feature2
+testfileadding in feature2
